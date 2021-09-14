@@ -22,7 +22,7 @@ class Product extends Employee {
     /* 1. adding more method and variables are needed
        2. write input in main method
         Test
-
+adf
     unfinished
     */
 
