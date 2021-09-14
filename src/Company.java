@@ -6,6 +6,7 @@ class Product extends Employee {
     protected int totalSalesUnit, totalSalesBaht;
     /* 1. adding more method and variables are needed
         2. write input in main method
+        Test
 
     unfinished
     */
